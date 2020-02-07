@@ -373,6 +373,8 @@ body {
    .swiper-container {
       width: 80%;
    }
+   .swiper-slide {
+      box-sizing: border-box;
    .main-content {
       margin-top: 196px;
    }
